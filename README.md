@@ -1,4 +1,4 @@
-## ⌨️ Typing Speed Test Python Project
+## Typing Speed Test Python Project
 
 -----
 
